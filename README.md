@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # ChatApp-using-Gemini-Api
-It is an app made using flutter framework using dart and goggle gemini api
+It is an app made using flutter framework using dart and google gemini api
 =======
 # Chat with Me
 
