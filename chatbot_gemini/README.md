@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# ChatApp-using-Gemini-Api
-It is an app made using flutter framework using dart and goggle gemini api
-=======
-# Chat with Me
+# t_store
 
 A new Flutter project.
 
@@ -48,4 +44,3 @@ A new Flutter project.
 |       On successful completion, you're primed and ready to launch the application.               |
 |                                                                                                  |
 └──────────────────────────────────────────────────────────────────────────────────────────────────┘
->>>>>>> 0dd8e6a (Initial commit)

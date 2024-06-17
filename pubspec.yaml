@@ -1,0 +1,60 @@
+name: geminichatai
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+
+
+#--------------- PACKAGES ------------------#
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Utility Packages
+  http: ^1.1.0
+  intl: ^0.18.1
+  logger: ^2.0.1
+  url_launcher: ^6.1.12
+  smooth_page_indicator: ^1.1.0
+  google_generative_ai: ^0.4.3
+  
+
+  # Icons
+  iconsax: ^0.0.8
+  
+
+  # State Management
+  get: ^4.6.5
+  get_storage: ^2.1.1
+
+  # Product Specific
+  readmore: ^2.2.0
+  
+
+  shared_preferences: ^2.0.0
+
+  #--------------- ./ PACKAGES END ------------------#
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  #--------------- LOCAL ASSETS ------------------#
+
+  assets:
+    - assets/images/splashx.png
+    - assets/images/bg.webp
+    - assets/images/bg1.webp
+    - assets/images/bg2.webp
+
+  #--------------- LOCAL FONTS ------------------#
+  
